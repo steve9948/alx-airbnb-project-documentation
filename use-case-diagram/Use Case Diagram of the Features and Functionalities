@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C81yYAYsjQo9TiGzL2qX-1" value="User" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="C81yYAYsjQo9TiGzL2qX-1" value="User" style="shape=actor;whiteSpace=wrap;html=1;fontColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C81yYAYsjQo9TiGzL2qX-2" value="Property Owner" style="shape=actor;whiteSpace=wrap;html=1;fontColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C81yYAYsjQo9TiGzL2qX-3" value="Admin" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console;fontColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="50" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
