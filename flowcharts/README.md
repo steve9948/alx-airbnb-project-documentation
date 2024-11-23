@@ -50,6 +50,7 @@ The flowchart follows this sequence visually:
 - **Check for Existing User** → Yes / No
 - **Create Account**
 - **Send Confirmation Email**
+
 - **End**
 
 ---
